@@ -1,3 +1,7 @@
+/*
+    Please refer to this page to learn more about singleton:
+    https://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/
+ */
 package pl.pwilkosz.javacourse.medium.constructors.singleton;
 
 import java.io.ObjectStreamException;
